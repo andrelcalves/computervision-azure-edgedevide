@@ -5,3 +5,17 @@ Computer vision Azure Edge device examples
 * [Dataset from Kagle](https://www.kaggle.com/datasets/utkarshsaxenadn/fruits-classification)
 
 * [Youytube - Running Cognitive Services on Azure IoT Edge](https://www.youtube.com/watch?v=y3J1tKP4n3g&t=312s)
+
+
+How TO
+
+[Create and Deploy a Custom Vision AI Module Using Azure Custom Vision Service and Azure IoT Edge](https://azure.github.io/Vision-AI-DevKit-Pages/docs/Tutorial-HOL_Using_the_VisionSample/)
+
+# Labeling
+[Configurar um projeto de rotulagem de imagens](https://learn.microsoft.com/pt-br/azure/machine-learning/how-to-create-image-labeling-projects?view=azureml-api-2)
+
+Export
+[Export your model for use with mobile devices](https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/export-your-model)
+
+Samples
+https://github.com/Azure-Samples/azure-ai-vision-sdk
