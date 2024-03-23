@@ -23,3 +23,7 @@ Computer vision Azure Edge device examples
 ### Samples
 https://github.com/Azure-Samples/azure-ai-vision-sdk
 
+### Azure AI Services Exercices
+[Exercise - Analyze images in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html)
+
+
