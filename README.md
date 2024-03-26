@@ -26,4 +26,9 @@ https://github.com/Azure-Samples/azure-ai-vision-sdk
 ### Azure AI Services Exercices
 [Exercise - Analyze images in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html)
 
+## Microsoft Learning | Training
+* [Classify images with Azure AI Custom Vision](https://learn.microsoft.com/en-us/training/modules/classify-images-custom-vision/)
+* [Classify images](https://learn.microsoft.com/en-us/training/modules/classify-images/)
+* [Classify endangered bird species with Custom Vision](https://learn.microsoft.com/en-us/training/modules/cv-classify-bird-species/)
+  
 
