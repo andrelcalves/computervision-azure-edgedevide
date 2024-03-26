@@ -10,6 +10,7 @@ Computer vision Azure Edge device examples
 * [Custom Vison AI on Azure IoT Edge](https://www.youtube.com/watch?v=_K5fqGLO8us)
 
 ## How TO
+* [Tutorial: Perform image classification at the edge with Custom Vision Service](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-custom-vision?view=iotedge-1.4&viewFallbackFrom=iotedge-2020-11)
 * [Create and Deploy a Custom Vision AI Module Using Azure Custom Vision Service and Azure IoT Edge](https://azure.github.io/Vision-AI-DevKit-Pages/docs/Tutorial-HOL_Using_the_VisionSample/)
 * [Tutorial: Monitor IoT Edge devices](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-monitor-with-workbooks?view=iotedge-1.4)
 
