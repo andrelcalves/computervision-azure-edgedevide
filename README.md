@@ -13,7 +13,6 @@ Focus on Computer Vision we can use the Cloud API services to:
 
 
 * [Azure Vision Studio](https://portal.vision.cognitive.azure.com/resource/r/b330e478afa0480b88a1869f0fc9ff33/subscriptions/020b2f56-5ec9-4b68-8ec0-f27cc654d795/datasets)
-* [Dataset from Kagle](https://www.kaggle.com/datasets/utkarshsaxenadn/fruits-classification)
 
 
 ## Youtube References
@@ -45,5 +44,8 @@ https://github.com/Azure-Samples/azure-ai-vision-sdk
 * [Classify images with Azure AI Custom Vision](https://learn.microsoft.com/en-us/training/modules/classify-images-custom-vision/)
 * [Classify images](https://learn.microsoft.com/en-us/training/modules/classify-images/)
 * [Classify endangered bird species with Custom Vision](https://learn.microsoft.com/en-us/training/modules/cv-classify-bird-species/)
+
+### Datasets
+* [Dataset from Kagle](https://www.kaggle.com/datasets/utkarshsaxenadn/fruits-classification)
   
 
