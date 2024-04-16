@@ -1,4 +1,4 @@
-# Azure Cognite Services
+# Azure Cognite Services or Azure AI Services
 Computer Vision - Azure Cognite Services
 
 The Azure Cognite Service has been renamed for *Azure AI Services*, this suite is a powerful set of tools that you can use to build your AI solutions and get to the market as fast as possible.
