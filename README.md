@@ -12,9 +12,6 @@ Focus on Computer Vision we can use the Cloud API services to:
 * Facial recognition. 
 
 
-* [Azure Vision Studio](https://portal.vision.cognitive.azure.com/resource/r/b330e478afa0480b88a1869f0fc9ff33/subscriptions/020b2f56-5ec9-4b68-8ec0-f27cc654d795/datasets)
-
-
 ## Youtube References
 * [Youytube - Running Cognitive Services on Azure IoT Edge](https://www.youtube.com/watch?v=y3J1tKP4n3g&t=312s)
 * [Custom Vison AI on Azure IoT Edge](https://www.youtube.com/watch?v=_K5fqGLO8us)
@@ -28,6 +25,9 @@ Focus on Computer Vision we can use the Cloud API services to:
 * [Azure Stack Edge - Deploy AI and machine learning computing on-premises and to the edge](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/video-ingestion-object-detection-edge-cloud)
 
 ## Custom Vision AI
+
+* [Azure Vision Studio](https://portal.vision.cognitive.azure.com/resource/r/b330e478afa0480b88a1869f0fc9ff33/subscriptions/020b2f56-5ec9-4b68-8ec0-f27cc654d795/datasets)
+
 ### Labeling
 * [Configurar um projeto de rotulagem de imagens](https://learn.microsoft.com/pt-br/azure/machine-learning/how-to-create-image-labeling-projects?view=azureml-api-2)
 
